@@ -3,7 +3,7 @@ description: Windows implementation of audioplayers, a Flutter plugin to play mu
 version: 3.1.0
 homepage: https://github.com/bluefireteam/audioplayers
 repository: https://github.com/bluefireteam/audioplayers/tree/master/packages/audioplayers_windows
-
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 flutter:
   plugin:
     implements: audioplayers
@@ -12,7 +12,9 @@ flutter:
         pluginClass: AudioplayersWindowsPlugin
 
 dependencies:
-  audioplayers_platform_interface: ^6.1.0
+  audioplayers_platform_interface: 
+    git:
+      url: 'https://github.com/RookiePlayers/audioplayers_platform_interface-5.0.1'
   flutter:
     sdk: flutter
 

@@ -27,9 +27,9 @@
     },
     {
       "name": "audioplayers_platform_interface",
-      "rootUri": "file:///C:/Users/olami/AppData/Local/Pub/Cache/hosted/pub.dev/audioplayers_platform_interface-6.1.0",
+      "rootUri": "file:///C:/Users/olami/AppData/Local/Pub/Cache/git/audioplayers_platform_interface-5.0.1-b106c9bbf534d38c2f962b08514ecd92275bd9d4/",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "2.18"
     },
     {
       "name": "boolean_selector",
@@ -260,7 +260,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2023-12-15T10:14:49.243824Z",
+  "generated": "2023-12-15T10:24:50.129253Z",
   "generator": "pub",
   "generatorVersion": "3.1.0-65.0.dev"
 }
