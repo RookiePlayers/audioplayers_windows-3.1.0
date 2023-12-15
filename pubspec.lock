@@ -38,7 +38,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: b106c9bbf534d38c2f962b08514ecd92275bd9d4
+      resolved-ref: a079740d7610cecaa9983cf46fef46f5fceb9a99
       url: "https://github.com/RookiePlayers/audioplayers_platform_interface-5.0.1"
     source: git
     version: "5.0.1"
@@ -331,4 +331,4 @@ packages:
     version: "3.1.2"
 sdks:
   dart: ">=3.0.0 <4.0.0"
-  flutter: ">=3.10.0"
+  flutter: ">=3.3.0"
